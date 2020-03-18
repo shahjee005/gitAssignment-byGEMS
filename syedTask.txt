@@ -1,1 +1,5 @@
-i have added new file file in my branch 
+Step No 02. Create a brand new file to this branch!!!
+
+I have added new file in my branch and now ill push it to my nerw bracngh as origin .
+Lets see :)
+
