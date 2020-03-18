@@ -1,6 +1,11 @@
+
+This is step 04
+
+I am trying to merge now . 
+
 I have created a new txt file to work on our git assignment. We will test our concepts regarding branching , delete a brach , merge etc. Lets take a short !!!
 new line $$$01$$$
 I have added another line :-)
 I hope it will work this time :)
 new LINE $2$
-I am adding another line 
+I have delted some files now 
