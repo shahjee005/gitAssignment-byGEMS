@@ -1,1 +1,3 @@
 I have created a new txt file to work on our git assignment. We will test our concepts regarding branching , delete a brach , merge etc. Lets take a short !!!
+
+I have added another line :-)
