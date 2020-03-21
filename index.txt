@@ -1,7 +1,10 @@
+I over rote step 4 
 
-This is step 04
+I am not going to merge it now any more 
+I am adding some more lines 
+I am adding some more 
+:-)
 
-I am trying to merge now . 
 
 I have created a new txt file to work on our git assignment. We will test our concepts regarding branching , delete a brach , merge etc. Lets take a short !!!
 new line $$$01$$$
