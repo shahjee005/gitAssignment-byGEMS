@@ -4,5 +4,12 @@ I have added new file in my branch and now ill push it to my nerw bracngh as ori
 
 Can i merge it now ? I reallly dont know . Lets try it 
 
+<<<<<<< HEAD
 syed I'm inside your file hahahahaha
 im in your branch syed
+=======
+syed I'm inside your file 
+You are Not Mohammad 
+I ahev deleted your lines now 
+Lets Play :-)
+>>>>>>> 0fa5c620e58cb349e7655c2e5b7d3a045b401d42
