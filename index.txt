@@ -12,3 +12,4 @@ I have added another line :-)
 I hope it will work this time :)
 new LINE $2$
 I have delted some files now 
+lets make a conflict
